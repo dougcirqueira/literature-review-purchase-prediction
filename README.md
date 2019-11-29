@@ -1,5 +1,6 @@
 # literature-review-purchase-prediction
 Complete results of the literature review developed for the paper "Customer Purchase Behavior Prediction in E-commerce: A Conceptual Framework and Research Agenda"
+For a better visualization, please refer to the file `Extended_Review_Customer Purchase Behaviour Prediction in E-commerce_ Current Applications, Methodologies, Challenges and Opportunities.xlsx`
 
 # Final Papers
 
